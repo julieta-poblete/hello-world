@@ -1,2 +1,3 @@
 # hello-world
-This is my test repository
+
+Hello World! Noob here but I want to learn github and explore the world of versioning of codes.
